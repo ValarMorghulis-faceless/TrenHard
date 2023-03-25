@@ -1,0 +1,587 @@
+[
+{
+    "id": 1,
+    "name": "Arms:Shoulders",
+    "description" : "Arms and shoulders are two major muscle groups of the upper body.Arms consist of two main muscles: the biceps and triceps. The biceps are located on the front of the upper arm, and they are responsible for flexing the elbow joint and rotating the forearm. The triceps, on the other hand, are located on the back of the upper arm, and they are responsible for extending the elbow joint.Shoulders consist of several muscles that work together to move the arm and shoulder joint. The major shoulder muscles include the deltoids, rotator cuff muscles, and trapezius. The deltoids are the largest muscles of the shoulder, and they are responsible for lifting the arm to the side, in front, and behind the body. The rotator cuff muscles are a group of four muscles that help to stabilize the shoulder joint.",
+    "exercises" : [
+    {
+        "id" : 10,
+        "name" : "Side Lateral Rises",
+        "imageName" : "SideLateralRises",
+        "link" : "https://www.dmoose.com/blogs/shoulders/dumbbell-lateral-raise",
+        "overview" : "A lateral raise workout is a great way to strengthen the middle deltoid muscle, which is responsible for raising the arm out to your sides. This exercise can also help to improve posture and prevent shoulder injuries. Lateral raises are typically performed with lighter weights and higher repetitions than other shoulder exercises such as overhead presses, making it ideal for beginners or those looking for a more moderate workout.",
+        "howto" : [
+        "Pick a pair of dumbbells and stand slightly bent forward. Hold the dumbbells at your sides but slightly off your body. This will help your body attain the popular “V” shape.",
+        
+        "Keeping your palms facing your sides, hold the dumbbells slightly drifted from your body. Now you are standing at the starting position.",
+        "Now slowly raise the dumbbells to the height of your shoulders. Make sure your wrist doesn’t go above your elbows.",
+        "Pause for a moment when you reach the top of the movement, then lower them back to the starting position.",
+        "Repeat for the desired number of reps."
+        ]
+        
+    },
+    {
+        "id" : 11,
+        "name" : "Smith Machine Shoulder Press",
+        "imageName" : "SmithMachineShoulderPress",
+        "link" : "https://weighttraining.guide/exercises/seated-smith-machine-behind-the-neck-shoulder-press/",
+        "overview" : "Throughout the exercise, maintain an upright torso, with your chest out, and gaze forward.The seated Smith machine behind-the-neck shoulder press is not recommended, especially if you are a beginner. The reason is that, bringing the weight behind your neck under heavy load may place your shoulder joint in a position where it can get damaged or dislocated. Your ligaments and muscles, which keep your shoulder joint stable, can either be traumatically overcome by the weight you are lifting or can be damaged over time due to repetitive stress brought about by the exercise.It is possible to perform the seated Smith machine behind-the-neck shoulder press safely. Some people have more range of motion in their shoulder joint than others do or have stronger ligaments and muscles than others do. However, the risk of injury is not worth it. A typical barbell shoulder press can be performed as an alternative."
+        ,
+        "howto" : [
+        "Set up for the smith machine shoulder press by setting a bench down in the smith machine and adjusting the back to a 90 degree angle.",
+        
+        "Now sit down on the bench and adjust the position so that the bar comfortably comes down just in front of your face.",
+        "Next, add the weight you want to use and sit down on the bench.",
+        "Un-rack the weights and bend your elbows slightly. This is the starting position for the movement.",
+        "Slowly lower the weight down until the bar is just below chin height, pause, and then raise the bar back to the starting position without locking your elbows out at the top of the movement.",
+        "Repeat for the desired number of reps."
+        ]
+        
+    },
+    {
+        "id" : 12,
+        "name" : "Upright Row",
+        "imageName" : "UprightRow",
+        "link" : "https://weighttraining.guide/exercises/barbell-wide-grip-upright-row/",
+        "overview" : "The upright row can be performed with a wide grip (as described above) or a narrow grip. The exercise, especially the narrow-grip upright row, has come under a lot of scrutiny because it can apparently harm your shoulders. Many trainers recommend that you avoid the exercise altogether, while others say that the wide-grip upright row, if performed in the way described above, is safe."
+        ,
+        "howto" : [
+        "Breathe in and brace the abdominals. Keep your back straight, chest up, and eyes focused forward",
+        
+        "Lift the barbell up (toward the chin) as you exhale. Lead with the elbows and keep the bar close to the body.",
+        "Pause at the top of the lift",
+        "Lower the barbell as you inhale, returning it to the starting position.",
+        "Repeat for the desired number of reps."
+        ]
+        
+    },
+    {
+        "id" : 13,
+        "name" : "Seated Dumbell Press",
+        "imageName" : "SeatedDumbellPress",
+        "link" : "https://www.dmoose.com/blogs/shoulders/seated-dumbbell-press-guide",
+        "overview" : "The seated dumbbell press is a variation of is the standing dumbbell press, an exercise to strengthen the shoulders muscles.The overhead press is an important foundational movement that can help you establish baseline strength and build a balanced body.A dumbbell is a better option than a barbell for muscle strengthening.This exercise can be part of shoulder exercises, push workouts, and full-body workouts."
+        ,
+        "howto" : [
+        "Set up an adjustable angle bench to 90 degrees and select the desired weight from the rack.Pick up the dumbbells from the floor using a neutral grip (palms facing in). Position the end of the dumbbells on your knees and sit down on the bench.",
+        
+        "Using a safe and controlled motion, kick your knees up one at a time in order to get each dumbbell into place.",
+        "Once the dumbbells are in place, rotate your palms so they are facing forward. Take a deep breath then press the dumbbells overhead by extending the elbows and contracting the deltoids.",
+        "Slowly lower the dumbbells back to the starting position (the arms should be roughly 90 degrees or slightly lower depending upon limb lengths).",
+        "Repeat for the desired number of reps."
+        ]
+        
+    },
+    {
+        "id" : 14,
+        "name" : "Standing Bicep Curls",
+        "imageName" : "HammerCurls",
+        "link" : "https://www.bodybuildingmealplan.com/hammer-curls-vs-bicep-curls/",
+        "overview" : "You start with straight arms and the bar in front of your hips. Then you curl the weight up towards your chest before lowering it back to the starting position."
+        ,
+        "howto" : [
+        "Start standing with a dumbbell in each hand. Your elbows should rest at your sides and your forearms should extend out in front of your body. Your knees should stay slightly bent and your belly button should draw into the spine.",
+        
+        "Bring the dumbbells all the way up to your shoulders by bending your elbows. Once at the top, hold for a second by squeezing the muscle.",
+        
+        "Reverse the curl slowly and repeat for the desired number of reps."
+        ]
+        
+    },
+    {
+        "id" : 15,
+        "name" : "Dumbell Curls",
+        "imageName" : "DumbellCurls",
+        "link" : "https://www.bodybuildingmealplan.com/hammer-curls-vs-bicep-curls/",
+        "overview" : "Dumbbell bicep curls are similar to hammer curls except for your hand position. Start with a dumbbell in each hand and arms at your sides. Then, keeping your elbow tight to your side, flex your arm to pull the weight towards your shoulder.While you curl the weight up, rotate your wrist outward, so your palm faces up at the top of the movement. Then lower the weight and repeat with the other arm. Alternatively, you can keep your palms up for the entire range of motion.As with hammer curls, you have the option to perform this exercise in an alternating fashion, one arm at a time. Or you can do both arms simultaneously, as shown below."
+        ,
+        "howto" : [
+        "To do a biceps curl with a dumbbell, hold a dumbbell with your palm facing upward. Slowly curl the weight up by bending your elbow, keeping your elbow close to your body. Then slowly lower the weight to the starting position. You'll feel tension in the muscles in the front of your upper arm.",
+        "Repeat for the desired number of reps."
+        ]
+        
+    },
+    {
+        "id" : 16,
+        "name" : "Preacher Bicep Curls",
+        "imageName" : "PreacherBicepCurls",
+        "link" : "https://www.dmoose.com/blogs/shoulders/seated-dumbbell-press-guide",
+        "overview" : "The seated dumbbell press is a variation of is the standing dumbbell press, an exercise to strengthen the shoulders muscles.The overhead press is an important foundational movement that can help you establish baseline strength and build a balanced body.A dumbbell is a better option than a barbell for muscle strengthening.This exercise can be part of shoulder exercises, push workouts, and full-body workouts."
+        ,
+        "howto" : [
+        "Pick a pair of dumbbells and stand slightly bent forward. Hold the dumbbells at your sides but slightly off your body. This will help your body attain the popular “V” shape.",
+        
+        "Keeping your palms facing your sides, hold the dumbbells slightly drifted from your body. Now you are standing at the starting position.",
+        "Now slowly raise the dumbbells to the height of your shoulders. Make sure your wrist doesn’t go above your elbows.",
+        "Pause for a moment when you reach the top of the movement, then lower them back to the starting position.",
+        "Repeat for the desired number of reps."
+        ]
+        
+    }
+    
+        
+    ]
+},
+{
+    "id": 2,
+    "name": "Chest",
+    "description" : "The chest muscles, also known as the pectoral muscles or pecs, are a group of muscles located on the front of the chest. The chest muscles consist of two main muscles: the pectoralis major and the pectoralis minor.The pectoralis major is the larger of the two chest muscles and is responsible for most of the movement of the shoulder joint. It consists of two parts: the clavicular head, which originates from the collarbone, and the sternal head, which originates from the sternum. The pectoralis major muscle is responsible for adducting, flexing, and rotating the arm, as well as pulling the arm across the chest.The pectoralis minor is a smaller muscle located beneath the pectoralis major. It originates from the third, fourth, and fifth ribs and inserts into the coracoid process of the scapula. The pectoralis minor muscle is responsible for protracting and depressing the scapula, as well as assisting in inhalation by lifting the ribs.",
+    
+    "exercises" : [
+        {
+            "id" : 17,
+            "name" : "Bench Press",
+            "imageName" : "BenchPress",
+            "link" : "https://www.inspireusafoundation.org/barbell-bench-press/",
+            "overview" : "The barbell bench press is a push-type compound exercise that primarily activates the musculature of the upper body to a significant intensity, where it is usually performed for the purposes of developing muscle mass and strength through the use of resistance induced training stimulus."
+            ,
+            "howto" : [
+            "Lie on your back on a flat bench. Grip a barbell with hands slightly wider than shoulder width. The bar should be directly over the shoulders. Press your feet firmly into the ground and keep your hips on the bench throughout the entire movement.",
+            
+            "Keep your core engaged and maintain a neutral spine position throughout the movement. Avoid arching your back.",
+            "Slowly lift the bar or dumbbells off the rack, if using. Lower the bar to the chest, about nipple level, allowing elbows to bend out to the side, about 45 degrees away from the body.",
+            "Stop lowering when your elbows are just below the bench. Press feet into the floor as you push the bar back up to return to starting position.",
+            "Perform 5 to 10 reps, depending on weight used. Perform up to 3 sets."
+            ]
+            
+        },
+        
+        {
+            "id" : 18,
+            "name" : "Smith Incline Bench Press",
+            "imageName" : "SmithInclineBenchPress",
+            "link" : "https://fullscalefit.com/product/smith-machine-incline-bench-press/",
+            "overview" : "The smith machine incline bench press is a great exercise to help build the pectoral muscles of the chest and great for beginners to be able to control the weights."
+            ,
+            "howto" : [
+            "Start by placing an incline bench at a 45-degree angle in the middle of a smith machine, then lie down with your back flat on the bench making sure that the bar is aligned across the upper portion of your chest.",
+            
+            "Grab onto the bar with a shoulder-width grip, unlock it and slowly lower it down towards your chest until you feel a stretch in your pectoral muscles.",
+            "Hold this position for a count then return back up to the start.",
+            "Repeat for the desired number of reps."
+            ]
+            
+        },
+        {
+            "id" : 19,
+            "name" : "Dumbell Fly",
+            "imageName" : "DumbellFlyes",
+            "link" : "https://www.inspireusafoundation.org/dumbbell-fly-alternatives/",
+            "overview" : "An extremely common isolation exercise with a particular focus on the two heads of the pectoralis muscle group, the dumbbell fly is often considered irreplaceable in whatever workout program or physical rehabilitation routine it is added to."
+            ,
+            "howto" : [
+            "Pick up the dumbbells off the floor using a neutral grip (palms facing in). Position the ends of the dumbbells in your hip crease, and sit down on the bench.",
+            
+            "To get into position, lay back and keep the weights close to your chest. Once you are in position, take a deep breath, then press the dumbbells to lockout at the top.",
+            "Slightly retract your shoulder blades, unlock your elbows, and slowly lower the dumbbells laterally while maintaining the angle at your elbow.",
+            "Once the dumbbells reach chest level, reverse the movement by squeezing your pecs together and bringing the dumbbells back to their starting position.",
+            "Without allowing the dumbbells to touch, start the next repetition, and continue until the set is completed.",
+            "Repeat for the desired number of reps."
+            ]
+            
+        },
+        {
+            "id" : 20,
+            "name" : "Incline Dumbbell Press",
+            "imageName" : "DumbellPress",
+            "link" : "https://www.verywellfit.com/how-to-do-incline-dumbbell-press-4588212",
+            "overview" : "The incline dumbbell press is a free weight exercise designed to target the chest, shoulders, and triceps, independently hitting each side of the body.Unlike the more traditional flat bench press, the incline press shifts the movement's focus to the upper portion of the pectoral muscle groups and the front of the shoulder. This allows for more significant hypertrophy (muscle growth) of the upper chest when the exercise is performed regularly"
+            ,
+            "howto" : [
+            "Sit on the bench and lean back. Hold a dumbbell in each hand, with hands positioned at your shoulders, elbows bent and angled down below your ribs. Relax your neck against the bench. Keep your feet flat on the floor.",
+            
+            "Brace your core and press both dumbbells straight over your chest as you exhale. Keep your wrists straight At the top of the movement, the dumbbells should almost touch each other, and your arms should be perpendicular to the floor.",
+            "Reverse the movement and slowly lower the dumbbells to the top of your chest as you inhale. As you lower the dumbbells, your elbows should come down at roughly a 45-degree angle to your torso. They shouldn't splay out to the sides, pointing toward the side of the room. Instead, keep your elbows pointing to the floor.",
+            "Aim to complete sets of 8 to 12 reps. Start with one set and work up to two to three sets over time as you build strength. When you finish your set, safely exit the exercise by sitting up and placing the dumbbells on your knees before you stand up. Avoid dropping the dumbbells while you're lying on the incline bench."
+            ]
+            
+        }
+    ]
+},
+{
+    "id": 3,
+    "name": "Back",
+    "description" : "The back is a complex group of muscles that provides support and stability for the spine and allows for a range of movement in the upper body.The back muscles can be divided into three main groups: the superficial, intermediate, and deep muscles.The superficial muscles are located closest to the surface and include the trapezius, latissimus dorsi, and erector spinae muscles. The trapezius muscle is a large diamond-shaped muscle that extends from the base of the skull to the middle of the back and is responsible for moving the shoulder blades and neck. The latissimus dorsi muscle is a large, flat muscle that extends from the lower back to the armpit and is responsible for adducting, extending, and internally rotating the arm. The erector spinae muscles are a group of three muscles that run along the length of the spine and are responsible for extending and rotating the spine.The intermediate muscles are located beneath the superficial muscles and include the rhomboids and serratus anterior muscles. "
+    ,
+    "exercises" : [
+        {
+            "id" : 21,
+            "name" : "Pull-ups",
+            "imageName" : "PullUp",
+            "link" : "https://www.sweat.com/blogs/fitness/how-to-do-pull-ups",
+            "overview" : " A pull-up is an upper-body exercise that involves hanging from a pull-up bar by your hands with your palms facing away from you, and lifting your entire body up with your arm and back muscles until your chest touches the bar."
+            ,
+            "howto" : [
+            "Start by standing directly below a pull-up bar. Place your hands in an overhand grip (palms facing away from your body) with your hands slightly further than shoulder-width apart. If you can’t reach the bar from standing on the floor, you can place a box beneath you and stand on that. Once your hands are holding onto the bar, you’re in your starting position.",
+            
+            "Inhale, then exhale. Lift your feet up from the floor or box so that you’re hanging from the bar, and engage your core by pulling your belly button in toward your spine. Pull your shoulders back and down.",
+            "Engaging the muscles in your arms and back, bend your elbows and raise your upper body up toward the bar until your chin is over the bar. You can imagine bringing your elbows toward your hips if that makes the movement easier. As you move, avoid swinging your legs around or shrugging your shoulders up. You want to make sure your shoulder blades remain back and down throughout the exercise.",
+            "At the top of the movement, inhale. Then extend your elbows and lower your body back down to the starting position. ",
+            "Repeat for the desired number of reps."
+            ]
+        },
+        {
+            "id" : 22,
+            "name" : "Barbell Bent Over Row",
+            "imageName" : "BarbellBentOverRow",
+            "link" : "https://www.simplyfitness.com/pages/barbell-bent-over-rows-supinated-grip",
+            "overview" : " Standing, your knees slightly bent. Grasp the bar with an underhand grip (supinated) with your hands at about shoulders width apart. Lean forward while keeping your back straight and your chest bulged."
+            ,
+            "howto" : [
+            "Hold a barbell with a pronated grip (palms facing down). Your feet should be shoulder-width apart.",
+            
+            "Bend your knees and bring your torso forward slightly. Your back should be straight and almost parallel to the floor. This is your starting position.",
+            "Lift the barbell up towards your sternum, keeping your elbows tucked in and close to the body.",
+            "Slowly lower the barbell back to the starting position.",
+            "Repeat for the desired number of reps."
+            ]
+        },
+        {
+            "id" : 23,
+            "name" : "Cable Pullover",
+            "imageName" : "CablePullOver",
+            "link" : "https://www.simplyfitness.com/pages/barbell-bent-over-rows-supinated-grip",
+            "overview" : "Kneeling cable pullover is a great exercise to target the lats, which are major muscles in your back. This exercise will help to strengthen and build the lats, increasing definition and helping you create a more impressive upper body. It is also great for posture as it helps to keep your spine in proper alignment. It is a challenging move, but it’s worth mastering because the results are impressive. "
+            ,
+            "howto" : [
+            "Start by kneeling in front of a low pulley cable machine and attaching a rope handle to the bottom pulley.Position yourself so you are kneeling on both knees, with your head and chest up, back straight, and core tight",
+            
+            "Grasping the handles in each hand, keep your arms straight out in front of you, and draw your shoulder blades together.Inhale and slowly pull the rope toward you in an arcing motion until it is above your head. Keep your arms straight during this part of the movement.",
+            "Exhale as you return to the starting position using a slow, steady motion and feeling your back muscles working throughout.",
+            "Repeat for the desired number of reps."
+            ]
+        },
+        {
+            "id" : 24,
+            "name" : "Lat Pulldown",
+            "imageName" : "LatPullDown",
+            "link" : "https://www.verywellfit.com/how-to-do-the-lat-pulldown-3498309",
+            "overview" : "The pulldown exercise works the back muscles and is performed at a workstation with adjustable resistance, usually plates.While seated, you pull a hanging bar toward you to reach chin level, then release it back up with control for one repetition. This exercise can be done as part of an upper-body strength workout."
+            ,
+            "howto" : [
+            "Grasp the bar with a wide grip with an overhand, knuckles-up grip. Other positions and grips are possible but start with this standard position.",
+            
+            "Pull the bar down until it's approximately level with the chin. Exhale on the downward motion. While shifting slightly backward is OK, aim to keep your upper torso stationary. Keep your feet flat on the floor and engage your abs as you pull. The bottom of the motion should be where your elbows can't move downward anymore without moving backward. Be sure to stop at that point and do not go lower.",
+            "Squeeze the shoulder blades together while maintaining square shoulders.",
+            "From the bottom position, with the bar close to your chin, slowly return the bar to the starting position while controlling its gradual ascent. Don't let it crash into the weight plates.",
+            "Repeat for the desired number of reps."
+            ]
+        }
+    ]
+},
+
+{
+    "id": 4,
+    "name": "Abs",
+    "description" : "The abdominal muscles, or abs, are a group of muscles located in the abdomen or stomach area. These muscles are responsible for stabilizing the core and supporting the spine, as well as contributing to movements such as bending, twisting, and turning.The abs are made up of four main muscles: the rectus abdominis, the external obliques, the internal obliques, and the transverse abdominis. The rectus abdominis is the muscle that runs vertically down the front of the abdomen, and is commonly referred to as the six-pack. The external obliques are located on the sides of the rectus abdominis, while the internal obliques are located underneath the external obliques. The transverse abdominis is the deepest of the abdominal muscles, and is located underneath the other three.When these muscles contract, they compress the abdomen and draw the rib cage and pelvis together, creating a strong core and stable base for movement. Strong abs are not only important for physical fitness and athletic performance, but also for good posture, back health, and overall health and well-being.",
+    "exercises" : [
+        {
+            "id" : 25,
+            "name" : "8 minute abs workout - level 1",
+            "imageName" : "AbsLevel1",
+            "link" : "https://www.youtube.com/watch?v=x59f9A1l0ao",
+            "overview" : "This video training has been designed to specifically work on the abdominal area.It can be done by anyone who exercises regularly, both men and women.There are no particular requirements for this module, you just need to know how to properly perform the exercises involved."
+            ,
+            "howto" : [
+            "This module is designed to work the abdominal area 'aerobically'., for this reason, performing it straight after an aerobic workout (eg: running, spinning, swimming or other aerobic activities) will improve its effect.",
+            
+            "Visualize the instructions for each exercise of this workout, read the comments left by other users, you might find useful advice.",
+            "Pay attention on the correct breathing while performing the exercises, remember that breathing  incorrectly can compromise a good result."
+            ]
+        },
+        {
+            "id" : 26,
+            "name" : "8 minute abs workout - level 2",
+            "imageName" : "AbsLevel2",
+            "link" : "https://www.youtube.com/watch?v=iQlJGTdD8qI",
+            "overview" : "This video training has been designed to specifically work on the abdominal area.It can be done by anyone who exercises regularly, both men and women.There are no particular requirements for this module, you just need to know how to properly perform the exercises involved."
+            ,
+            "howto" : [
+            "This module is designed to work the abdominal area 'aerobically'., for this reason, performing it straight after an aerobic workout (eg: running, spinning, swimming or other aerobic activities) will improve its effect.",
+            
+            "Visualize the instructions for each exercise of this workout, read the comments left by other users, you might find useful advice.",
+            "Pay attention on the correct breathing while performing the exercises, remember that breathing  incorrectly can compromise a good result."
+            ]
+        }
+    ]
+},
+{
+    "id": 5,
+    "name": "Forearms",
+    "description" : "The forearms are the portion of the arm that extends from the elbow to the wrist. The muscles of the forearms are responsible for a variety of movements, including wrist flexion and extension, forearm pronation and supination, and finger and hand movements.There are two main groups of muscles in the forearms: the anterior forearm muscles and the posterior forearm muscles. The anterior forearm muscles are responsible for wrist flexion, finger flexion, and thumb opposition. The main muscles in this group include the flexor carpi radialis, flexor carpi ulnaris, and pronator teres.The posterior forearm muscles are responsible for wrist extension, finger extension, and thumb abduction. The main muscles in this group include the extensor carpi radialis brevis, extensor carpi ulnaris, and supinator.",
+    "exercises" : [
+        {
+            "id" : 27,
+            "name" : "Reverse Wrist Curl",
+            "imageName" : "WristCurl",
+            "link" : "https://www.dmoose.com/blogs/shoulders/seated-dumbbell-press-guide",
+            "overview" : "The dumbbell reverse wrist curl is a favorite choice for exercise enthusiasts looking to beef up and strengthen their forearm muscles. This exercise targets the top side or brachioradialis muscle that is very underdeveloped for a large majority of exercisers."
+            ,
+            "howto" : [
+            "Grab two light dumbbells and sit on a bench. ",
+            
+            "Place your bottom of your forearms on your thighs so that your wrists are just hanging over your knees. Your palms should be facing down. ",
+            "Raise both wrists upward as far as you can, and pause for a second while contracting your forearm muscles.",
+            "Lower the weight and repeat.",
+            "Repeat for the desired number of reps."
+            ]
+        },
+        {
+            "id" : 28,
+            "name" : "Reverse Barbell Curl",
+            "imageName" : "ReverseBarbellCurl",
+            "link" : "https://fitnessvolt.com/barbell-reverse-curl/",
+            "overview" : "The barbell reverse curl is a non-negotiable component of arm training. Sure, a standard barbell curl will still work the same muscles, but a reverse curl variation hits certain muscles a little better. That’s because anatomically, hand position can determine which muscles are more active during specific movements (we’ll get more into that shortly)."
+            ,
+            "howto" : [
+            "Grip the barbell with hands about shoulder-width apart and palms down. Hold the bar down by your thighs with arms extended and elbows tucked close to your sides.",
+            
+            "Take a comfortable stance and look forward.",
+            "Curl the weight up and squeeze, keeping your wrists straight. Do not rest at the top.",
+            "Lower the weight back down but don’t fully extend your arms.",
+            "Repeat for the desired number of reps."
+            ]
+        }
+    ]
+},
+{
+    "id": 6,
+    "name": "Glutes:Back",
+    "description" : "The glutes and back muscles are two major muscle groups in the body that are important for posture, movement, and overall physical function.The glutes, or gluteal muscles, are located in the buttocks and are responsible for hip extension, abduction, and external rotation. The three main muscles in this group are the gluteus maximus, gluteus medius, and gluteus minimus. The gluteus maximus is the largest and most powerful muscle in the group, and is responsible for extending the hip joint, as well as providing stability to the pelvis and lower back. The gluteus medius and gluteus minimus are located on the outer surface of the hip and are responsible for hip abduction, or moving the leg away from the body.The back muscles, or erector spinae muscles, are located on either side of the spine and are responsible for spinal extension and lateral flexion. There are three main groups of muscles in the back: the iliocostalis, longissimus, and spinalis. These muscles work together to maintain the natural curvature of the spine, support the upper body, and assist in movement.",
+    "exercises" : [
+        {
+            "id" : 29,
+            "name" : "The 45-Degree Back Extensions",
+            "imageName" : "BackExtension",
+            "link" : "https://bodybuilding-wizard.com/back-extension/",
+            "overview" : "The 45-degree back extension (incline back hyperextension) is a great lower back exercise in which you flex your body around your hip joints while keeping your spine neutral. Hamstring flexibility will determine the degree of flexion you can achieve. Just about every gym has a back extension bench (incline version) usually set at 45 degrees."
+            ,
+            "howto" : [
+            "Keep your feet flat on the support.",
+            
+            "Maintain straight legs.",
+            "Position your thighs on the pads of the chair so that your hips are free to flex.",
+            "As an alternative, you can clasp your hands behind your head (instead of crossing your arms over your chest) to keep your upper body steady.",
+            "Keep your movement slow and controlled.",
+            "Do not extend back beyond the start position as you may injure your back.",
+            "Look for your body to move forwards from the lower gluteal, not your back or spine.",
+            "Avoid improper positioning  (your hip bones should be in direct contact with the pads).",
+            "Don’t jerk your torso as you raise it back up to the starting position.",
+            
+            "Repeat for the desired number of reps."
+            ]
+        },
+        {
+            "id" : 30,
+            "name" : "Squats",
+            "imageName" : "Squats",
+            "link" : "https://www.muscleandstrength.com/exercises/squat.html",
+            "overview" : "The squat is the king of all exercises, working over 256 muscles in one movement! From bodybuilders to powerlifters to competitive athletes, the squat is a staple compound exercise and should be in every workout plan."
+            ,
+            "howto" : [
+            "Set up for the exercise by setting the barbell to just below shoulder height and loading the weight you want to use.",
+            
+            "Stand under the bar with your feet at about shoulder width apart.Position the bar so that it is resting on the muscles on the top of your back, not on the back of your neck. The bar should feel comfortable. If it doesn't, try adding some padding to the bar.",
+            "Now take your hands over the back and grip the bar with a wide grip for stability.You should now bend at the knees and straighten your back in preparation to take the weight off the rack.",
+            "As an alternative, you can clasp your hands behind your head (instead of crossing your arms over your chest) to keep your upper body steady.",
+            "Keeping your back straight and eyes up, push up through the legs and take the weight off the rack.Take a small step back and stabilize yourself.",
+            "Keeping your eyes facing forward slowly lower your body down. Don't lean forward as you come down. Your buttocks should come out and drop straight down.",
+            "Squat down until your thighs are parallel with the floor, and then slowly raise your body back up by pushing through your heels.",
+            "Do not lock the knees out when you stand up, and then repeat the movement.",
+            "Repeat for the desired number of reps."
+            ]
+        },
+        {
+            "id" : 31,
+            "name" : "Barbell Straight Back Stiff",
+            "imageName" : "Stiff",
+            "link" : "https://weighttraining.guide/exercises/barbell-straight-back-stiff-leg-deadlift/",
+            "overview" : "As the name suggests, the straight leg deadlift is a deadlift performed with straight legs—or at least straighter than in the regular deadlift. Although you are meant to keep a slight bend in your knees throughout the movement, the stiff leg deadlift requires you to use a lot more of your lower back, hamstrings, and glutes to get the weight moving. This also causes the range of motion to be shorter since you’re not going to be hinging at the knees."
+            ,
+            "howto" : [
+            "Keep your knees stiff, your back and arms straight, and your head up.",
+            
+            "Keep the barbell close to your body to improve mechanical leverage.",
+            "If you can lower the barbell low enough for it to touch the floor, perform the exercise on an elevated platform.",
+            "Contrary to what some people think, the barbell straight-back stiff-leg deadlift targets your gluteus maximus and not your hamstrings. The reason is that, by flexing your knees even a little, you place your hamstrings in a state of mechanical disadvantage, thus forcing your gluteus maximus to work the hardest during hip extension. If you want to target your hamstrings, keep your legs straight (in which case the barbell straight-back stiff-leg deadlift will become the barbell straight-back straight-leg deadlift).",
+            "Repeat for the desired number of reps."
+            ]
+        },
+        {
+            "id" : 32,
+            "name" : "Barbell Glute Bridge",
+            "imageName" : "GluteBridge",
+            "link" : "https://fitandfunnow.com/the-barbell-glute-bridge-and-the-dumbbell-glute-bridge/",
+            "overview" : "Whether you do the Barbell Glute Bridge or the Dumbbell Glute Bridge the results are the same – this exercise will strengthen your glutes, core, hamstrings and quads."
+            ,
+            "howto" : [
+            "lie on the floor with your back flat and your heels as close to your body (butt) as possible",
+            "at the top of the movement extend your hips forward to get the hip hyper extension",
+            "do some stretching before doing the Barbell/ Dumbbell Glute Bridge",
+            "the bar/ dumbbels to lie 2-3 inches down from your hips",
+            "hold the bar/ dumbbells shoulder width and push it into your thigh where the bar/ dumbbells will stay during the entire movement",
+            "if during the exercise the bar hurts you can use a pad explode up and have a controlled movement on the way down",
+            "Repeat for the desired number of reps."
+            ]
+        }
+    ]
+},
+{
+    "id": 7,
+    "name": "LowerLegs",
+    "description" : "The lower legs are the portion of the leg below the knee and are made up of several major muscle groups that are important for movement and stability.The calf muscles, or gastrocnemius and soleus muscles, are located at the back of the lower leg and are responsible for plantar flexion, or pointing the foot downward. The gastrocnemius is the larger of the two muscles and crosses both the knee and ankle joints, while the soleus muscle lies deeper and is responsible for maintaining posture and stability when standing.The tibialis anterior muscle is located on the front of the lower leg and is responsible for dorsiflexion, or pulling the foot upward. This muscle is important for walking, running, and other activities that involve lifting the foot off the ground.The peroneal muscles, or peroneus longus and peroneus brevis, are located on the outer surface of the lower leg and are responsible for eversion, or turning the foot outward. These muscles are important for stability and balance during walking and running.",
+    "exercises" : [
+        {
+            "id" : 33,
+            "name" : "Standing Calf Raises",
+            "imageName" : "CalfRaises",
+            "link" : "https://www.muscleandstrength.com/exercises/smith-machine-calf-raise.html#:~:text=Grasp%20the%20smith%20bar%20with,you%20can%20off%20the%20floor.",
+            "overview" : "The smith machine is a good alternative if your gym does not have a standing calf raise machine."
+            ,
+            "howto" : [
+            "Set the bar on the smith machine to around shoulder height and rack up the weight you want to use.",
+            
+            "Grasp the smith bar with a wide grip and position it across the top of your back muscles (not across the back of your neck).",
+            "Push up to take the weight off the rack and slowly let your heels drop down as far as possible. This is the starting position.",
+            "Slowly raise your heels as far as you can off the floor.",
+            "Squeeze the calf muscles, and then slowly lower your heels back to the starting position.",
+            "Repeat for the desired number of reps."
+            ]
+        }
+    ]
+},
+{
+    "id": 8,
+    "name": "UpperBack",
+    "description" : "The upper back muscles are located in the area between the neck and the lower back, and are responsible for movements such as shoulder blade retraction, elevation, and rotation. These muscles are important for posture, stability, and mobility of the upper body.The main muscles of the upper back include the trapezius, rhomboids, and levator scapulae. The trapezius muscle is a large muscle that covers much of the upper back and extends down to the middle of the back. It is responsible for movements such as shoulder blade retraction, elevation, and depression. The rhomboids are two smaller muscles located underneath the trapezius, and are responsible for shoulder blade retraction and downward rotation. The levator scapulae is a smaller muscle located at the side of the neck, and is responsible for elevating the shoulder blade.",
+    "exercises" : [
+        {
+            "id" : 34,
+            "name" : "Shrugs",
+            "imageName" : "Shrugs",
+            "link" : "https://www.dmoose.com/blogs/shoulders/seated-dumbbell-press-guide",
+            "overview" : "Use a dumbbell or barbell with a prone grip, hands slightly more than shoulder width, as this will maximize the load you can bear during the shrug. The standard shrug is also the primary variation of this movement for isolating the upper back."
+            ,
+            "howto" : [
+            "Place loaded bar on stoppers on a squat rack, at about hand height.",
+            
+            "Grip the bar with palms facing back, slightly more than shoulder width apart, and lift off the stoppers.",
+            "With an exaggerated shrug, pull the bar straight upward using, squeezing the upper traps up and inward. Do this slowly to ensure full activation – 1-2 seconds for the contraction. Any faster and you risk sacrificing activation and, more importantly, injuries.",
+            "Return bar to starting position, at mid-thigh, and repeat.",
+            "Repeat for the desired number of reps."
+            ]
+        },
+        {
+            "id" : 35,
+            "name" : "Bent Over Reverse Dumbbell Fly",
+            "imageName" : "ReverseFly",
+            "link" : "https://www.fitliferegime.com/how-to-do-bent-over-reverse-dumbbell-fly-and-tips/",
+            "overview" : "Use a dumbbell or barbell with a prone grip, hands slightly more than shoulder width, as this will maximize the load you can bear during the shrug. The standard shrug is also the primary variation of this movement for isolating the upper back."
+            ,
+            "howto" : [
+            "Holding a dumbbell in each hand, bend at the hips and knees until your torso is parallel to the floor.",
+            
+            "The back should be straight and your arms should be hanging in front of you, with your palms facing inwards (neutral grip).",
+            "Keeping your elbows slightly bent, raise both arms out to the sides until the dumbbells are level with the height of your shoulders.",
+            "Hold for a count of two and then slowly lower the dumbbells to the starting position in a controlled manner. Repeat for the desired number of repetitions.",
+            "Repeat for the desired number of reps."
+            ]
+        },
+        {
+            "id" : 36,
+            "name" : "Face Pulls",
+            "imageName" : "FacePulls",
+            "link" : "https://www.setforset.com/blogs/news/upper-back-exercises",
+            "overview" : "Face pulls may seem awkward, but it's effective for an upper back workout. The position and movement of face pulls retract the shoulder blades, which recruits the traps and rear delts."
+            ,
+            "howto" : [
+            "Adjust a cable machine so the handle is about even with your eyes (slightly higher is fine). Attach a double ended rope.",
+            
+            "Grab the rope with both hands, palms neutral, thumbs against the handle stopper.",
+            "Pull the rope toward your face – perform a row type movement but rotate your forearms upward at the elbow. You’re doing this right if the handles split and the clip approaches your nose/eyes.",
+            "Squeeze the shoulder blades inward and pause. Return to the start and repeat.",
+            "Repeat for the desired number of reps."
+            ]
+        }
+    ]
+},
+{
+    "id": 9,
+    "name": "UpperLegs",
+    "description" : "The upper legs are primarily composed of four main muscle groups: the quadriceps, hamstrings, adductors, and abductors.The quadriceps, located in the front of the thigh, consist of four separate muscles: the rectus femoris, vastus lateralis, vastus medialis, and vastus intermedius. Together, these muscles are responsible for extending the knee and flexing the hip.The hamstrings, located in the back of the thigh, are composed of three muscles: the biceps femoris, semitendinosus, and semimembranosus. The hamstrings work in opposition to the quadriceps and are responsible for flexing the knee and extending the hip.The adductors, located on the inside of the thigh, consist of several muscles that work together to pull the legs towards the center of the body. These muscles include the adductor longus, adductor brevis, adductor magnus, gracilis, and pectineus.",
+    "exercises" : [
+        {
+            "id" : 30,
+            "name" : "Squats",
+            "imageName" : "Squats",
+            "link" : "https://www.muscleandstrength.com/exercises/squat.html",
+            "overview" : "The squat is the king of all exercises, working over 256 muscles in one movement! From bodybuilders to powerlifters to competitive athletes, the squat is a staple compound exercise and should be in every workout plan."
+            ,
+            "howto" : [
+            "Set up for the exercise by setting the barbell to just below shoulder height and loading the weight you want to use.",
+            
+            "Stand under the bar with your feet at about shoulder width apart.Position the bar so that it is resting on the muscles on the top of your back, not on the back of your neck. The bar should feel comfortable. If it doesn't, try adding some padding to the bar.",
+            "Now take your hands over the back and grip the bar with a wide grip for stability.You should now bend at the knees and straighten your back in preparation to take the weight off the rack.",
+            "As an alternative, you can clasp your hands behind your head (instead of crossing your arms over your chest) to keep your upper body steady.",
+            "Keeping your back straight and eyes up, push up through the legs and take the weight off the rack.Take a small step back and stabilize yourself.",
+            "Keeping your eyes facing forward slowly lower your body down. Don't lean forward as you come down. Your buttocks should come out and drop straight down.",
+            "Squat down until your thighs are parallel with the floor, and then slowly raise your body back up by pushing through your heels.",
+            "Do not lock the knees out when you stand up, and then repeat the movement.",
+            "Repeat for the desired number of reps."
+            ]
+        },
+        {
+            "id" : 31,
+            "name" : "Leg Extensions",
+            "imageName" : "LegExtensions",
+            "link" : "https://www.puregym.com/exercises/legs/quad-exercises/leg-extensions/#:~:text=The%20leg%20pad%20should%20in,back%20to%20the%20starting%20position.",
+            "overview" : "Leg extensions are exercises usually done with a lever machine. You sit on a padded seat and raise a padded bar with your legs. The exercise works mainly the quadriceps muscles of the front of the thigh—the rectus femoris and the vastus muscles. You can use this exercise to build lower body strength and muscle definition as part of a strength training workout."
+            ,
+            "howto" : [
+            "Adjust the machine so that you can sit with your back flat against the support and your knees bent at 90 degrees. The leg pad should in front of the top of your ankles, feet facing forward.",
+            
+            "Grip the bars on either side of the seat. ",
+            "Use your quads to extend your legs up until they are fully straight.",
+            "Hold this position for a second and squeeze your quads before slowly lowering your legs back to the starting position. ",
+            "Repeat for the desired number of reps."
+            ]
+        },
+        {
+            "id" : 32,
+            "name" : "Leg Press",
+            "imageName" : "LegPress",
+            "link" : "https://www.verywellfit.com/how-to-do-the-leg-press-3498610",
+            "overview" : "The leg press is a popular piece of gym equipment that can help build key muscles in your legs. There are two leg press machines commonly found in gyms and home gyms: the standard horizontal leg press and the 45-degree leg press, with a seat that reclines at an angle while your legs press upward in a diagonal direction."
+            ,
+            "howto" : [
+            "Brace your abdominal muscles and push the platform away with your heels and forefoot. Your heels should remain flat on the footplate. The front of your foot or toes should never be used exclusively to move the pad forward.",
+            
+            "While exhaling, extend your legs and keep your head and back flat against the seat pad. Extend with slow control rather than with an explosive movement.",
+            "Pause at the top of the movement. Do not lock out your knees, and ensure that they are not bowing out or in.",
+            "While inhaling, return the footplate to the starting position by gradually bending the knees. Keep the feet and back flat throughout.",
+            "If you have never done leg presses, start modestly with three sets of 10 leg presses. You can advance from there as you build strength.",
+            
+            "Repeat for the desired number of reps."
+            ]
+        },
+        {
+            "id" : 33,
+            "name" : "Dumbbell Lunges",
+            "imageName" : "DumbbellLunges",
+            "link" : "https://www.verywellfit.com/how-to-do-dumbbell-lunges-3498297",
+            "overview" : "The dumbbell lunge is basically a giant step forward. Although this exercise can be done without weights, using dumbbells provides additional work for the upper leg and buttock muscles. This functional exercise is a great addition to any lower body strength routine as well as circuit training workouts."
+            ,
+            "howto" : [
+            "Take possession of suitable weight dumbbells. You are standing upright with arms hanging at your sides and palms face inward. Ensure you have adequate room to lunge forward. Core is tight, feet are flat on the floor. This is your starting position.",
+            
+            "Keeping your core tight and your torso as straight and upright as possible, inhale and lunge forward on one leg and drop down until the upper thigh of the leading leg is parallel to the ground. The knee should not go forward past toe line. The knee of the back leg will stop just before touching the ground.",
+            "At this point, commence the ascent by exhaling and driving up from the heel of the leading foot and back to the starting position.",
+            "You may choose to do your lunges either stationary or walking. You may elect to focus on one side to a set before changing or alternate repetitions one side then the other.",
+            "Repeat for the desired number of reps."
+            ]
+        }
+        
+    ]
+}
+]
+

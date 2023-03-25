@@ -1,0 +1,28 @@
+[
+{
+    "id": 1,
+    "type": "Full Body"
+},
+{
+    "id": 2,
+    "type": "Cardio"
+},
+{
+    "id": 3,
+    "type": "Cross fit"
+},
+{
+    "id": 4,
+    "type": "Weight Lifting"
+},
+{
+    "id": 5,
+    "type": "Body Weight"
+},
+{
+    "id": 6,
+    "type": "Yoga"
+}
+
+]
+
